@@ -1,0 +1,36 @@
+{
+  "name": "tcharge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyu0925/tcharge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyu0925/tcharge/issues"
+  },
+  "homepage": "https://github.com/suyu0925/tcharge#readme",
+  "dependencies": {
+    "lljypt": "^1.0.3",
+    "llt800": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/debug": "0.0.29",
+    "@types/dotenv": "^4.0.0",
+    "@types/jest": "^19.2.4",
+    "@types/node": "^7.0.31",
+    "debug": "^2.6.8",
+    "dotenv": "^4.0.0",
+    "jest": "^20.0.4",
+    "ts-jest": "^20.0.6",
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4"
+  }
+}
