@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/suyu0925/tcharge#readme",
   "dependencies": {
-    "lljypt": "^1.0.3",
-    "llt800": "^0.1.0"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "lljypt": "^1.0.4",
+    "llt800": "^0.1.3",
+    "sy666": "^0.1.2"
   },
   "devDependencies": {
     "@types/debug": "0.0.29",
