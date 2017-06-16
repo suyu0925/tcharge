@@ -20,7 +20,7 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "lljypt": "^1.0.4",
+    "lljypt": "^1.0.7",
     "llt800": "^0.1.3",
     "sy666": "^0.1.2"
   },

@@ -1,6 +1,6 @@
 'use strict'
 
-export type Type = 'llt800' | 'sy666'
+export type Type = 'llt800' | 'sy666' | 'lljypt' | 'dahanbank'
 
 export enum Group {
   National = 1,
